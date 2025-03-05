@@ -13,14 +13,12 @@ The **Banking Management System** is a C# console-based application that allows 
 ## **Project Structure** 📂  
 ```
 📂 Banking-Management-System
-│-- 📄 BankingManagementSystem.sln  (Solution file)
-│-- 📂 BankingSystem                (Main project folder)
-│   │-- 📄 Program.cs               (Main entry point)
-│   │-- 📄 Bank_Account.cs          (Base class for accounts)
-│   │-- 📄 Savings_Account.cs       (Derived class for savings account)
-│   │-- 📄 Current_Account.cs       (Derived class for current account)
-│-- 📄 example.txt                  (File storing account details)
-│-- 📄 README.txt                    (Project documentation)
+│-- 📄 Bank Account Management System.sln            (Solution file)
+│-- 📂 Bank Account Management System                (Main project folder)
+│   │-- 📄 Program.cs                                (Main entry point)
+│   │-- 📄 Bank Account Management System.csproj     (Includes project metadata)
+│-- 📄 .gitignore                                    (File to exclude unnecessary files)
+│-- 📄 README.md                                     (Project documentation)
 ```
 
 ## **Technologies Used** 🛠️  
