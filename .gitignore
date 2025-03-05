@@ -1,0 +1,13 @@
+# Ignore build files
+bin/
+obj/
+.vs/
+
+# Ignore user-specific settings
+*.user
+*.suo
+
+# Ignore compiled files
+*.exe
+*.dll
+*.pdb
